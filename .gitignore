@@ -9,3 +9,4 @@ build
 __pycache__
 venv
 local-conf.yml
+.DS_Store
